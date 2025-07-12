@@ -7,3 +7,6 @@ Step 1- Install OpenCV
 Step 2: Camera Callibration
 
 Step 3: GUI Design
+
+Demo Video of Project:
+https://drive.google.com/file/d/1uaxlpSZhniTBFDTT2pkz69oOFfF28CaF/view?usp=sharing 
